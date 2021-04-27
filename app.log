@@ -1,0 +1,65 @@
+------------------------------------------------------------------------------------------------------------------------
+04/26/2021 03:16:57 PM : root - WARNING - Traceback (most recent call last):
+  File "main.py", line 288, in work_polling
+    bot.load_next_step_handlers()
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/__init__.py", line 223, in load_next_step_handlers
+    self.next_step_backend.load_handlers(filename, del_file_after_loading)
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/handler_backends.py", line 81, in load_handlers
+    tmp = self.return_load_handlers(filename, del_file_after_loading=del_file_after_loading)
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/handler_backends.py", line 111, in return_load_handlers
+    os.remove(filename)
+PermissionError: [Errno 13] Permission denied: './.handler-saves/step.save'
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+04/26/2021 03:17:12 PM : root - WARNING - Traceback (most recent call last):
+  File "main.py", line 288, in work_polling
+    bot.load_next_step_handlers()
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/__init__.py", line 223, in load_next_step_handlers
+    self.next_step_backend.load_handlers(filename, del_file_after_loading)
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/handler_backends.py", line 81, in load_handlers
+    tmp = self.return_load_handlers(filename, del_file_after_loading=del_file_after_loading)
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/handler_backends.py", line 111, in return_load_handlers
+    os.remove(filename)
+PermissionError: [Errno 13] Permission denied: './.handler-saves/step.save'
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+04/26/2021 03:17:27 PM : root - WARNING - Traceback (most recent call last):
+  File "main.py", line 288, in work_polling
+    bot.load_next_step_handlers()
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/__init__.py", line 223, in load_next_step_handlers
+    self.next_step_backend.load_handlers(filename, del_file_after_loading)
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/handler_backends.py", line 81, in load_handlers
+    tmp = self.return_load_handlers(filename, del_file_after_loading=del_file_after_loading)
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/handler_backends.py", line 111, in return_load_handlers
+    os.remove(filename)
+PermissionError: [Errno 13] Permission denied: './.handler-saves/step.save'
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+04/26/2021 03:17:42 PM : root - WARNING - Traceback (most recent call last):
+  File "main.py", line 288, in work_polling
+    bot.load_next_step_handlers()
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/__init__.py", line 223, in load_next_step_handlers
+    self.next_step_backend.load_handlers(filename, del_file_after_loading)
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/handler_backends.py", line 81, in load_handlers
+    tmp = self.return_load_handlers(filename, del_file_after_loading=del_file_after_loading)
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/handler_backends.py", line 111, in return_load_handlers
+    os.remove(filename)
+PermissionError: [Errno 13] Permission denied: './.handler-saves/step.save'
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+04/26/2021 03:17:57 PM : root - WARNING - Traceback (most recent call last):
+  File "main.py", line 288, in work_polling
+    bot.load_next_step_handlers()
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/__init__.py", line 223, in load_next_step_handlers
+    self.next_step_backend.load_handlers(filename, del_file_after_loading)
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/handler_backends.py", line 81, in load_handlers
+    tmp = self.return_load_handlers(filename, del_file_after_loading=del_file_after_loading)
+  File "/home/jamol/.local/lib/python3.8/site-packages/telebot/handler_backends.py", line 111, in return_load_handlers
+    os.remove(filename)
+PermissionError: [Errno 13] Permission denied: './.handler-saves/step.save'
+------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,64 @@
+root - WARNING - Traceback (most recent call last):
+  File "D:\infinity\projects\tg_bot\class_schedule\demo\test_time.py", line 20, in <module>
+    print(2 / 0)
+ZeroDivisionError: division by zero
+
+root - WARNING - Traceback (most recent call last):
+  File "D:\infinity\projects\tg_bot\class_schedule\demo\test_time.py", line 20, in <module>
+    print(2 / 0)
+ZeroDivisionError: division by zero
+
+04/01/2021 01:31:29 AM : root - WARNING - Traceback (most recent call last):
+  File "D:\infinity\projects\tg_bot\class_schedule\demo\test_time.py", line 20, in <module>
+    print(2 / 0)
+ZeroDivisionError: division by zero
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+04/01/2021 01:37:23 AM : root - WARNING - Traceback (most recent call last):
+  File "D:\infinity\projects\tg_bot\class_schedule\demo\test_time.py", line 20, in <module>
+    print(2 / 0)
+ZeroDivisionError: division by zero
+
+
+------------------------------------------------------------------------------------------------------------------------
+04/01/2021 01:39:35 AM : root - WARNING - Traceback (most recent call last):
+  File "D:\infinity\projects\tg_bot\class_schedule\demo\test_time.py", line 20, in <module>
+    print(2 / 0)
+ZeroDivisionError: division by zero
+
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+04/01/2021 01:40:14 AM : root - WARNING - Traceback (most recent call last):
+  File "D:\infinity\projects\tg_bot\class_schedule\demo\test_time.py", line 20, in <module>
+    print(2 / 0)
+ZeroDivisionError: division by zero
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+04/01/2021 01:40:20 AM : root - WARNING - Traceback (most recent call last):
+  File "D:\infinity\projects\tg_bot\class_schedule\demo\test_time.py", line 20, in <module>
+    print(2 / 0)
+ZeroDivisionError: division by zero
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+04/01/2021 01:41:38 AM : root - WARNING - ------------------------------------------------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\infinity\projects\tg_bot\class_schedule\demo\test_time.py", line 20, in <module>
+    print(2 / 0)
+ZeroDivisionError: division by zero
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------
+04/01/2021 01:42:08 AM : root - WARNING - ------------------------------------------------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\infinity\projects\tg_bot\class_schedule\demo\test_time.py", line 20, in <module>
+    print(2 / 0)
+ZeroDivisionError: division by zero
+------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
+
